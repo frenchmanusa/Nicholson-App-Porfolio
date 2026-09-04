@@ -11,13 +11,15 @@ development tools.
 - Develop useful Nicholson business tools
 - Build internal knowledge portals
 
-## Planned Applications
+# Future Applications
 
-- PM Manual Portal
-- Safety Quiz Portal
-- Lessons Learned Database
-- Cost Control Workshop Tool
-- Employee Recognition Portal
+1. PM Manual Portal
+2. Parking Board
+3. Safety Training Portal
+4. Lessons Learned Hub
+5. Cost Control Simulator
+6. Project Startup Checklist
+7. Office Move Tracker
 
 ## Owner
 
